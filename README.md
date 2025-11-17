@@ -17,7 +17,7 @@ The Employee Evaluation System is a web-based performance appraisal platform des
 
 Displays all available evaluations grouped by year.
 
-Shows the status of each evaluation (e.g., Completed, Final Attempt).
+Shows the status of each evaluation.
 
 Quick access to detailed evaluation forms.
 
@@ -31,15 +31,15 @@ Card-style sections for readability and ease of navigation.
 
 Responsive layout, suitable for desktops and tablets.
 
-Consistent iconography and color coding, especially for ratings (e.g., green for Outstanding, red for Unsatisfactory).
+Consistent iconography and color coding, especially for ratings (ex. green for Outstanding, red for Unsatisfactory).
 
 Smooth page-to-page transitions for the multi-step form.
 
-* Technical Implementation (You can customize these according to your actual stack)
+* Technical Implementation
 
 Stack: Canvas apps
 
-Database: MySQL, Sharepoint
+Database: MySQL, SharePoint
 
 Authentication: Role-based access (Employee, Supervisor, Admin)
 
